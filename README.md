@@ -21,6 +21,8 @@
 
 ### Windows 便携包
 
+[下载 Windows x64 便携包（v0.1.0-beta.1）](https://github.com/guhuozhengling2022/yixianpai-simulator/releases/download/v0.1.0-beta.1/yixianpai-simulator-v0.1.0-beta.1-windows-x64.zip)
+
 完整解压后，双击 `启动模拟器.cmd`，用完双击 `关闭模拟器.cmd`。便携包附带 Java 和 Python，截图导入需要 Windows 简体中文 OCR 语言包。安装方式见 [中文 OCR 安装说明](中文OCR安装说明.txt)。对局跟踪和战绩码导入需要同一台机器上有游戏生成的日志或缓存。
 
 ### 从源码运行
