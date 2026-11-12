@@ -1,0 +1,18 @@
+简体中文OCR安装说明（Windows 10/11）
+
+本程序使用Windows自带OCR接口。缺少简体中文OCR资源时，截图导入可能失败，手动配置及战斗模拟仍可使用。
+
+1. 连接网络。
+2. 开始菜单搜索“Windows PowerShell”，右键选择“以管理员身份运行”。
+3. 可先执行检查命令：
+Get-WindowsCapability -Online -Name 'Language.OCR~~~zh-CN~0.0.1.0'
+显示 State : Installed 就已安装，不必重复安装。
+4. 若为 NotPresent，执行：
+Add-WindowsCapability -Online -Name 'Language.OCR~~~zh-CN~0.0.1.0'
+5. 等待安装完成；若 RestartNeeded 为 True，请重启电脑，然后重新启动模拟器。
+
+安装失败：记录完整错误信息。公司电脑可能受管理员或Windows Update策略限制，需要联系管理员。
+请使用Windows PowerShell，不要使用PowerShell 7执行本程序的WinRT OCR检测。
+
+微软说明：
+https://learn.microsoft.com/en-us/windows/powertoys/text-extractor#install-an-ocr-language-pack

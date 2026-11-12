@@ -1,0 +1,10237 @@
+[
+  {
+    "id": 1001,
+    "name": "天灵之音",
+    "description": "",
+    "params": [
+      2
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": true,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 1002,
+    "name": "狂舞之音",
+    "description": "",
+    "params": [
+      1
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": true,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 1003,
+    "name": "回春之音",
+    "description": "",
+    "params": [
+      15
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": true,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 1004,
+    "name": "断肠之音",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": true,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 1005,
+    "name": "困仙之音",
+    "description": "",
+    "params": [
+      1
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": true,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 1006,
+    "name": "肃杀之音",
+    "description": "",
+    "params": [
+      15
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": true,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 1007,
+    "name": "强化之音",
+    "description": "",
+    "params": [
+      1
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": true,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 1008,
+    "name": "幽绪之音",
+    "description": "",
+    "params": [
+      2
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": true,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 1009,
+    "name": "升阶之音",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": true,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 1010,
+    "name": "弱化之音",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": true,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2001,
+    "name": "命元底蕴",
+    "description": "",
+    "params": [
+      8
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2002,
+    "name": "境界感悟",
+    "description": "",
+    "params": [
+      1,
+      1
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2003,
+    "name": "勤修",
+    "description": "",
+    "params": [
+      1,
+      2
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2004,
+    "name": "斩道之法",
+    "description": "",
+    "params": [
+      3,
+      3
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2005,
+    "name": "另辟蹊径",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2007,
+    "name": "三思抉择",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2008,
+    "name": "根骨奇佳",
+    "description": "",
+    "params": [
+      2
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2009,
+    "name": "稳定突破",
+    "description": "",
+    "params": [
+      12
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2011,
+    "name": "广结善缘",
+    "description": "",
+    "params": [
+      1
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2012,
+    "name": "临阵顿悟",
+    "description": "",
+    "params": [
+      5
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2013,
+    "name": "强身健体",
+    "description": "",
+    "params": [
+      5
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2014,
+    "name": "无中生有",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2015,
+    "name": "承载之躯",
+    "description": "",
+    "params": [
+      2,
+      1
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2016,
+    "name": "境界专精",
+    "description": "",
+    "params": [
+      4
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2017,
+    "name": "云剑修行",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2018,
+    "name": "狂剑修行",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2019,
+    "name": "剑阵修行",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2020,
+    "name": "剑意修行",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2021,
+    "name": "连击修行",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2022,
+    "name": "星弈修行",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2023,
+    "name": "卦象修行",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2024,
+    "name": "雷法修行",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2025,
+    "name": "后招修行",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2026,
+    "name": "生命修行",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2027,
+    "name": "木灵修行",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2028,
+    "name": "火灵修行",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2029,
+    "name": "土灵修行",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2030,
+    "name": "金灵修行",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2031,
+    "name": "水灵修行",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2032,
+    "name": "崩拳修行",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2033,
+    "name": "气势修行",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2034,
+    "name": "体魄修行",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2035,
+    "name": "身法修行",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2036,
+    "name": "炼气强化",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2037,
+    "name": "远虑",
+    "description": "第10轮起生效",
+    "params": [
+      2,
+      3
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2038,
+    "name": "灵气修行",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 2039,
+    "name": "防御修行",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 3001,
+    "name": "龙威震慑",
+    "description": "",
+    "params": [
+      1
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": true,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 3002,
+    "name": "龙鳞护体",
+    "description": "",
+    "params": [
+      1,
+      4
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 3003,
+    "name": "龙息强攻",
+    "description": "",
+    "params": [
+      4,
+      1
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 3004,
+    "name": "龙影潜遁",
+    "description": "",
+    "params": [
+      1,
+      2
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 3005,
+    "name": "龙行破空",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 3006,
+    "name": "梦•空间灵田",
+    "description": "第13轮起生效",
+    "params": [
+      350
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 3007,
+    "name": "梦•天音困仙曲",
+    "description": "第14轮起生效",
+    "params": [
+      348
+    ],
+    "effectRound": 14,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 3008,
+    "name": "梦•天命重现",
+    "description": "第13轮起生效",
+    "params": [
+      335
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 3009,
+    "name": "梦•回响阵纹",
+    "description": "第10轮起生效",
+    "params": [
+      10349
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 3010,
+    "name": "梦•神来之笔",
+    "description": "第8轮起生效",
+    "params": [
+      10341
+    ],
+    "effectRound": 8,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 3011,
+    "name": "龙吟聚灵",
+    "description": "",
+    "params": [
+      2
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 3012,
+    "name": "龙鳞御防",
+    "description": "第13轮起生效",
+    "params": [
+      2,
+      4
+    ],
+    "effectRound": 13,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 3013,
+    "name": "龙魂战意",
+    "description": "",
+    "params": [
+      10
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4001,
+    "name": "命途-机缘造化",
+    "description": "",
+    "params": [
+      53,
+      5
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4002,
+    "name": "命途-陨星淬体",
+    "description": "",
+    "params": [
+      59
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4003,
+    "name": "命途-云巅雷劫",
+    "description": "",
+    "params": [
+      9
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4004,
+    "name": "命途-变换之道",
+    "description": "",
+    "params": [
+      6
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4005,
+    "name": "命途-储纳灵气",
+    "description": "",
+    "params": [
+      13
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4006,
+    "name": "命途-狂之执念",
+    "description": "",
+    "params": [
+      70,
+      3
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4007,
+    "name": "命途-云之道",
+    "description": "",
+    "params": [
+      69
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4008,
+    "name": "命途-剑韵修炼",
+    "description": "",
+    "params": [
+      16
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4009,
+    "name": "命途-剑阵守护",
+    "description": "",
+    "params": [
+      57
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4010,
+    "name": "命途-卜卦",
+    "description": "",
+    "params": [
+      30
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4011,
+    "name": "命途-观星",
+    "description": "",
+    "params": [
+      31
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4013,
+    "name": "命途-五行循环",
+    "description": "",
+    "params": [
+      102
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4014,
+    "name": "命途-五行专一",
+    "description": "",
+    "params": [
+      128
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4015,
+    "name": "命途-体修入道",
+    "description": "",
+    "params": [
+      146,
+      1
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4016,
+    "name": "命途-气势充沛",
+    "description": "",
+    "params": [
+      145,
+      1
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4017,
+    "name": "命途-冥心烙印",
+    "description": "",
+    "params": [
+      150
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4018,
+    "name": "命途-再生之躯",
+    "description": "",
+    "params": [
+      149
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4019,
+    "name": "狂剑道韵",
+    "description": "第14轮起生效",
+    "params": [
+      1000035,
+      1000066
+    ],
+    "effectRound": 14,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4020,
+    "name": "云剑道韵",
+    "description": "第14轮起生效",
+    "params": [
+      1000040,
+      1000042
+    ],
+    "effectRound": 14,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4021,
+    "name": "灵剑道韵",
+    "description": "第14轮起生效",
+    "params": [
+      1000036,
+      1000045
+    ],
+    "effectRound": 14,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4022,
+    "name": "剑意道韵",
+    "description": "第13轮起生效",
+    "params": [
+      1000037,
+      1000044
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4023,
+    "name": "剑阵道韵",
+    "description": "第14轮起生效",
+    "params": [
+      1000064,
+      1000025
+    ],
+    "effectRound": 14,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4024,
+    "name": "木灵道韵",
+    "description": "第14轮起生效",
+    "params": [
+      7000061,
+      7000043
+    ],
+    "effectRound": 14,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4025,
+    "name": "火灵道韵",
+    "description": "第14轮起生效",
+    "params": [
+      7000038,
+      7000056
+    ],
+    "effectRound": 14,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4026,
+    "name": "土灵道韵",
+    "description": "第14轮起生效",
+    "params": [
+      7000033,
+      7000053
+    ],
+    "effectRound": 14,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4027,
+    "name": "金灵道韵",
+    "description": "第14轮起生效",
+    "params": [
+      7000034,
+      7000042
+    ],
+    "effectRound": 14,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4028,
+    "name": "水灵道韵",
+    "description": "第14轮起生效",
+    "params": [
+      7000030,
+      7000057
+    ],
+    "effectRound": 14,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4029,
+    "name": "混元道韵",
+    "description": "第14轮起生效",
+    "params": [
+      7000066,
+      7000058
+    ],
+    "effectRound": 14,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4030,
+    "name": "星弈道韵",
+    "description": "第14轮起生效",
+    "params": [
+      4000039,
+      4000045
+    ],
+    "effectRound": 14,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4031,
+    "name": "卦象道韵",
+    "description": "第14轮起生效",
+    "params": [
+      4000014,
+      4000026
+    ],
+    "effectRound": 14,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4032,
+    "name": "生机道韵",
+    "description": "第14轮起生效",
+    "params": [
+      4000027,
+      4000060
+    ],
+    "effectRound": 14,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4033,
+    "name": "后招道韵",
+    "description": "第13轮起生效",
+    "params": [
+      4000036,
+      4000066
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4034,
+    "name": "内伤道韵",
+    "description": "第14轮起生效",
+    "params": [
+      4000059,
+      4000105
+    ],
+    "effectRound": 14,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4035,
+    "name": "锻体道韵",
+    "description": "第14轮起生效",
+    "params": [
+      10000037,
+      10000047
+    ],
+    "effectRound": 14,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4036,
+    "name": "崩拳道韵",
+    "description": "第14轮起生效",
+    "params": [
+      10000044,
+      10000045
+    ],
+    "effectRound": 14,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4037,
+    "name": "气势道韵",
+    "description": "第14轮起生效",
+    "params": [
+      10000042,
+      10000051
+    ],
+    "effectRound": 14,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4038,
+    "name": "冥玄道韵",
+    "description": "第14轮起生效",
+    "params": [
+      10000068,
+      10000041
+    ],
+    "effectRound": 14,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4039,
+    "name": "身法道韵",
+    "description": "第14轮起生效",
+    "params": [
+      10000039,
+      10000038
+    ],
+    "effectRound": 14,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4040,
+    "name": "命途-星蚀",
+    "description": "",
+    "params": [
+      103
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4041,
+    "name": "命途-顿悟",
+    "description": "",
+    "params": [
+      12,
+      3
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4042,
+    "name": "我命由我",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4043,
+    "name": "道韵随心",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4044,
+    "name": "命途-副职兼修",
+    "description": "",
+    "params": [
+      188,
+      3
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 4045,
+    "name": "双重道韵",
+    "description": "",
+    "params": [
+      2
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 5001,
+    "name": "逍遥刻纹",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": true,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 5002,
+    "name": "逍遥游",
+    "description": "第9轮起生效",
+    "params": [
+      435
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 5003,
+    "name": "逍遥探寻",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 5004,
+    "name": "逍遥步法",
+    "description": "",
+    "params": [
+      14
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 5005,
+    "name": "逍遥连音",
+    "description": "",
+    "params": [
+      1
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 5006,
+    "name": "偷师学艺",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 5007,
+    "name": "逍遥护身诀",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 5008,
+    "name": "逍遥神力掌",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 5009,
+    "name": "双生刻纹",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": true,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 5010,
+    "name": "轮回之术",
+    "description": "",
+    "params": [
+      3,
+      1
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": true,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 5011,
+    "name": "逍遥点穴手",
+    "description": "",
+    "params": [
+      3,
+      1
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 6001,
+    "name": "云剑•晚霞",
+    "description": "第10轮起生效",
+    "params": [
+      47
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 6002,
+    "name": "青龙剑阵",
+    "description": "第10轮起生效",
+    "params": [
+      48
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 6003,
+    "name": "百兽灵剑阵",
+    "description": "第13轮起生效",
+    "params": [
+      49
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 6004,
+    "name": "狂龙吞云",
+    "description": "第13轮起生效",
+    "params": [
+      50
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 6005,
+    "name": "灵卦术",
+    "description": "第10轮起生效",
+    "params": [
+      51
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 6006,
+    "name": "摘花飞叶",
+    "description": "第10轮起生效",
+    "params": [
+      52
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 6007,
+    "name": "星弈•双飞燕",
+    "description": "第13轮起生效",
+    "params": [
+      53
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 6008,
+    "name": "滴水穿石",
+    "description": "第13轮起生效",
+    "params": [
+      54
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 6009,
+    "name": "野渡之印",
+    "description": "第9轮起生效",
+    "params": [
+      55
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 6010,
+    "name": "熔岩之印",
+    "description": "第10轮起生效",
+    "params": [
+      56
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 6011,
+    "name": "滚石之印",
+    "description": "第13轮起生效",
+    "params": [
+      57
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 6012,
+    "name": "斩浪之印",
+    "description": "第13轮起生效",
+    "params": [
+      58
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 6013,
+    "name": "玄灵附身",
+    "description": "第10轮起生效",
+    "params": [
+      336
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 6014,
+    "name": "崩拳•伏虎",
+    "description": "第9轮起生效",
+    "params": [
+      337
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 6015,
+    "name": "瞬影击",
+    "description": "第12轮起生效",
+    "params": [
+      338
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 6016,
+    "name": "逍遥无影拳",
+    "description": "第13轮起生效",
+    "params": [
+      339
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 6017,
+    "name": "凌剑心法",
+    "description": "第13轮起生效",
+    "params": [
+      1000053
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 6018,
+    "name": "步月登云",
+    "description": "第13轮起生效",
+    "params": [
+      1000057
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 6019,
+    "name": "星弈•屠龙",
+    "description": "第10轮起生效",
+    "params": [
+      4000051
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 6020,
+    "name": "雷霆心法",
+    "description": "第10轮起生效",
+    "params": [
+      4000064
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 6021,
+    "name": "木灵•燃火",
+    "description": "第9轮起生效",
+    "params": [
+      7000051
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 6022,
+    "name": "土灵•韵金",
+    "description": "第9轮起生效",
+    "params": [
+      7000047
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 6023,
+    "name": "崩拳•双影",
+    "description": "第10轮起生效",
+    "params": [
+      10000060
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 6024,
+    "name": "幽冥三点手",
+    "description": "第9轮起生效",
+    "params": [
+      10000067
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 6025,
+    "name": "鬼音葬魂",
+    "description": "第14轮起生效",
+    "params": [
+      10000064
+    ],
+    "effectRound": 14,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 6026,
+    "name": "水灵•海龙啸",
+    "description": "第14轮起生效",
+    "params": [
+      7000044
+    ],
+    "effectRound": 14,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7001,
+    "name": "天衍-云泉道茶",
+    "description": "第13轮起生效",
+    "params": [
+      1
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7002,
+    "name": "天衍-剑不出鞘",
+    "description": "",
+    "params": [
+      1
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7003,
+    "name": "天衍-炎舞",
+    "description": "第14轮起生效",
+    "params": [
+      2
+    ],
+    "effectRound": 14,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7004,
+    "name": "天衍-崩雪",
+    "description": "第10轮起生效",
+    "params": [
+      3
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7005,
+    "name": "流风回雪",
+    "description": "",
+    "params": [
+      1,
+      2
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7006,
+    "name": "天衍-九霄玲珑镯",
+    "description": "第12轮起生效",
+    "params": [
+      16
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7007,
+    "name": "天衍-唤雨",
+    "description": "第9轮起生效",
+    "params": [
+      15
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7008,
+    "name": "天衍-玲珑剑阵",
+    "description": "第9轮起生效",
+    "params": [
+      332
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7009,
+    "name": "天衍-灵猫乱剑",
+    "description": "第10轮起生效",
+    "params": [
+      9
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7010,
+    "name": "天衍-灵猫踏云",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7011,
+    "name": "剑心演武",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7012,
+    "name": "地火锻心",
+    "description": "",
+    "params": [
+      4
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7013,
+    "name": "剑招修行",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7014,
+    "name": "剑影互通",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7015,
+    "name": "天衍-悟剑天赋",
+    "description": "",
+    "params": [
+      4
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7016,
+    "name": "天衍-曳影剑阵",
+    "description": "第12轮起生效",
+    "params": [
+      213
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7017,
+    "name": "护体剑阵",
+    "description": "",
+    "params": [
+      1,
+      7,
+      1
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7018,
+    "name": "天衍-瓮中捉鳖",
+    "description": "第10轮起生效",
+    "params": [
+      5
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7019,
+    "name": "天衍-狂雷电闪",
+    "description": "第12轮起生效",
+    "params": [
+      29
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7020,
+    "name": "天衍-旋灯占卦",
+    "description": "第9轮起生效",
+    "params": [
+      7
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7021,
+    "name": "天衍-七星定魂",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7022,
+    "name": "七星伤魂",
+    "description": "",
+    "params": [
+      2
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7023,
+    "name": "天衍-星月折扇",
+    "description": "第12轮起生效",
+    "params": [
+      23
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7024,
+    "name": "天衍-卜卦",
+    "description": "",
+    "params": [
+      6
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7025,
+    "name": "水灵•悠然",
+    "description": "第10轮起生效",
+    "params": [
+      258
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7026,
+    "name": "抽刀断水",
+    "description": "",
+    "params": [
+      1,
+      2
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7027,
+    "name": "天衍-五行传承",
+    "description": "第14轮起生效",
+    "params": [
+      31
+    ],
+    "effectRound": 14,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7028,
+    "name": "天衍-先天印记",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7029,
+    "name": "天衍-先天五行",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7030,
+    "name": "天衍-双鸳逆克",
+    "description": "第9轮起生效",
+    "params": [
+      32
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7031,
+    "name": "灵阵回响",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": true,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7032,
+    "name": "凝水化刃",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7033,
+    "name": "天衍-山崩",
+    "description": "第13轮起生效",
+    "params": [
+      21
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7034,
+    "name": "天衍-刚劲",
+    "description": "第10轮起生效",
+    "params": [
+      18
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7035,
+    "name": "荆棘伴生",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7036,
+    "name": "灵香缭绕",
+    "description": "",
+    "params": [
+      2,
+      9
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": true,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7037,
+    "name": "天衍-崩裂之拳",
+    "description": "",
+    "params": [
+      40
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7038,
+    "name": "掌法感悟",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7039,
+    "name": "天衍-冥夜",
+    "description": "第10轮起生效",
+    "params": [
+      74
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7040,
+    "name": "天衍-冥月蟾光",
+    "description": "第12轮起生效",
+    "params": [
+      75
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7041,
+    "name": "天衍-万玄破魔掌",
+    "description": "第13轮起生效",
+    "params": [
+      82
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7042,
+    "name": "禅心聚灵",
+    "description": "",
+    "params": [
+      1
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7043,
+    "name": "天衍-转势",
+    "description": "第10轮起生效",
+    "params": [
+      222
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7044,
+    "name": "背孤击虚",
+    "description": "第11轮起生效",
+    "params": [
+      216,
+      217
+    ],
+    "effectRound": 11,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7045,
+    "name": "天衍-五行刀斩",
+    "description": "第13轮起生效",
+    "params": [],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7046,
+    "name": "天衍-御风飞闪",
+    "description": "第10轮起生效",
+    "params": [
+      383
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7048,
+    "name": "天衍-五行聚灵",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7049,
+    "name": "琴心剑胆",
+    "description": "",
+    "params": [
+      1000035,
+      5000014
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7050,
+    "name": "霜寒水月",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7051,
+    "name": "玲珑游",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7052,
+    "name": "狂剑聚灵",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7053,
+    "name": "雁栖",
+    "description": "",
+    "params": [
+      20
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7054,
+    "name": "恃风雷",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7056,
+    "name": "七星连珠",
+    "description": "",
+    "params": [
+      7
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7057,
+    "name": "引虚卦术",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7058,
+    "name": "百草织霞",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7059,
+    "name": "风灵展翼",
+    "description": "",
+    "params": [
+      5
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7060,
+    "name": "灵之羽",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7061,
+    "name": "天衍-孤虚金书",
+    "description": "第12轮起生效",
+    "params": [
+      215
+    ],
+    "effectRound": 12,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7062,
+    "name": "天衍-斩断俗尘",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7063,
+    "name": "灯焰催心",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7064,
+    "name": "朱雀之泪",
+    "description": "第13轮起生效",
+    "params": [
+      20
+    ],
+    "effectRound": 13,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7065,
+    "name": "盈月飞影",
+    "description": "",
+    "params": [
+      9
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7066,
+    "name": "天衍-木灵印记",
+    "description": "",
+    "params": [
+      2
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7067,
+    "name": "云之剑气",
+    "description": "",
+    "params": [
+      1
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7068,
+    "name": "飞火流霞",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7069,
+    "name": "天衍-兴云布雨",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7070,
+    "name": "喵喵喵？",
+    "description": "",
+    "params": [
+      33,
+      34,
+      35
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7071,
+    "name": "剑气掌控",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7072,
+    "name": "铸剑-云",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7073,
+    "name": "悟剑演练",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7075,
+    "name": "秋去春来",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7076,
+    "name": "天衍-雪羽清风",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7077,
+    "name": "无尽卦衍",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7078,
+    "name": "灯灵星耀",
+    "description": "",
+    "params": [
+      5
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7079,
+    "name": "星渊",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7080,
+    "name": "虚灵归流",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7081,
+    "name": "五行转化",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7082,
+    "name": "天髓归一",
+    "description": "第12轮起生效",
+    "params": [
+      7000073
+    ],
+    "effectRound": 12,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7083,
+    "name": "灵树庇佑",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7084,
+    "name": "雨润大地",
+    "description": "",
+    "params": [
+      8
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7085,
+    "name": "混元玉瓶",
+    "description": "",
+    "params": [
+      6
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7086,
+    "name": "灵草栽培",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7087,
+    "name": "气盖山河",
+    "description": "",
+    "params": [
+      2
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7088,
+    "name": "月魂爪",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7089,
+    "name": "迅身掌",
+    "description": "",
+    "params": [
+      2
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7090,
+    "name": "强攻架势",
+    "description": "",
+    "params": [
+      1,
+      1
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7091,
+    "name": "天衍-风灵锻躯",
+    "description": "",
+    "params": [
+      5
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7092,
+    "name": "灵灌崩拳",
+    "description": "",
+    "params": [
+      2,
+      4
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7093,
+    "name": "七星借命",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7094,
+    "name": "天衍-搏命之勇",
+    "description": "",
+    "params": [
+      1,
+      2
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": true,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7095,
+    "name": "天衍-土灵印记",
+    "description": "",
+    "params": [
+      8
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7096,
+    "name": "天衍-金灵印记",
+    "description": "",
+    "params": [
+      4
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7097,
+    "name": "培土生金",
+    "description": "第13轮起生效",
+    "params": [
+      2
+    ],
+    "effectRound": 13,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7098,
+    "name": "天衍-火灵印记",
+    "description": "",
+    "params": [
+      4
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7099,
+    "name": "蹴鞠飞袭",
+    "description": "第13轮起生效",
+    "params": [
+      6
+    ],
+    "effectRound": 13,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7100,
+    "name": "火灵亲和",
+    "description": "第13轮起生效",
+    "params": [
+      1
+    ],
+    "effectRound": 13,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7101,
+    "name": "灵烟化爪",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7102,
+    "name": "魂体不竭",
+    "description": "",
+    "params": [
+      4
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7103,
+    "name": "天衍-猛虎之躯",
+    "description": "",
+    "params": [
+      10
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7104,
+    "name": "截拳式",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7105,
+    "name": "天衍-入冥",
+    "description": "",
+    "params": [
+      2
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7106,
+    "name": "以茶会友",
+    "description": "第13轮起生效",
+    "params": [
+      1
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7107,
+    "name": "天衍-灯灵觉醒",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7108,
+    "name": "天衍-计出万全",
+    "description": "",
+    "params": [
+      5
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7109,
+    "name": "天衍-无忧灵酿",
+    "description": "",
+    "params": [
+      4,
+      3
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7110,
+    "name": "谋定后动",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7111,
+    "name": "无尽棍势",
+    "description": "",
+    "params": [
+      3,
+      3
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7112,
+    "name": "乘雁而行",
+    "description": "",
+    "params": [
+      20,
+      3
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7113,
+    "name": "拳风破空",
+    "description": "",
+    "params": [
+      5
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7114,
+    "name": "天衍-秘印亲和",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7115,
+    "name": "以冥化灵",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7116,
+    "name": "老鼠偷油",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": true,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7117,
+    "name": "天衍-气旋掌",
+    "description": "第10轮起生效",
+    "params": [
+      382
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7118,
+    "name": "热血化气",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7119,
+    "name": "天衍-血脉潜能",
+    "description": "",
+    "params": [
+      3,
+      1
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7120,
+    "name": "上古威势",
+    "description": "",
+    "params": [
+      6
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7121,
+    "name": "天衍-修玄不泯",
+    "description": "",
+    "params": [
+      2,
+      10
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7122,
+    "name": "天衍-水灵印记",
+    "description": "",
+    "params": [
+      1
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7123,
+    "name": "天衍-猫魂庇佑",
+    "description": "",
+    "params": [
+      50,
+      15
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7124,
+    "name": "极•云剑猫爪",
+    "description": "第12轮起生效",
+    "params": [
+      424
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7125,
+    "name": "木灵•万物生",
+    "description": "第13轮起生效",
+    "params": [
+      134,
+      2
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7126,
+    "name": "极•冥心入玄",
+    "description": "第13轮起生效",
+    "params": [
+      439,
+      2
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7127,
+    "name": "惊雷破敌",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7128,
+    "name": "天衍-布星问卦",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7129,
+    "name": "风卜卦术",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7130,
+    "name": "淬剑-云海",
+    "description": "",
+    "params": [
+      5,
+      2
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7131,
+    "name": "浩荡不息",
+    "description": "第13轮起生效",
+    "params": [
+      137,
+      3
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7132,
+    "name": "御云结阵",
+    "description": "",
+    "params": [
+      2
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7133,
+    "name": "霜华守护",
+    "description": "第13轮起生效",
+    "params": [],
+    "effectRound": 13,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7134,
+    "name": "天衍-铸剑师",
+    "description": "",
+    "params": [
+      1
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7135,
+    "name": "枯荣往复",
+    "description": "",
+    "params": [
+      4
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": true,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7136,
+    "name": "猫之狂念",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7137,
+    "name": "玉瓶封印",
+    "description": "第10轮起生效",
+    "params": [],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 7138,
+    "name": "引水筑堤",
+    "description": "",
+    "params": [
+      2
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 8001,
+    "name": "讙之力",
+    "description": "第10轮起生效",
+    "params": [
+      430
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 8002,
+    "name": "龟之力",
+    "description": "第10轮起生效",
+    "params": [
+      431
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 8003,
+    "name": "鼠之力",
+    "description": "第10轮起生效",
+    "params": [
+      432
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 8004,
+    "name": "狸之力",
+    "description": "第10轮起生效",
+    "params": [
+      433
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 8005,
+    "name": "鹦之力",
+    "description": "第10轮起生效",
+    "params": [
+      434
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 8006,
+    "name": "幻化之力",
+    "description": "第10轮起生效",
+    "params": [],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 9001,
+    "name": "首山定岳剑",
+    "description": "第15轮起生效",
+    "params": [
+      171
+    ],
+    "effectRound": 15,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 9002,
+    "name": "九天流光轮",
+    "description": "第15轮起生效",
+    "params": [
+      172
+    ],
+    "effectRound": 15,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 9003,
+    "name": "瑶光溯时镜",
+    "description": "第15轮起生效",
+    "params": [
+      173
+    ],
+    "effectRound": 15,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 9004,
+    "name": "裂穹开天斧",
+    "description": "第15轮起生效",
+    "params": [
+      174
+    ],
+    "effectRound": 15,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 9005,
+    "name": "五色补天石",
+    "description": "第15轮起生效",
+    "params": [
+      175
+    ],
+    "effectRound": 15,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 9006,
+    "name": "灵墟锁魂塔",
+    "description": "第15轮起生效",
+    "params": [
+      176
+    ],
+    "effectRound": 15,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 9007,
+    "name": "灵韵御心琴",
+    "description": "第15轮起生效",
+    "params": [
+      177
+    ],
+    "effectRound": 15,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 9008,
+    "name": "五帝长生印",
+    "description": "第15轮起生效",
+    "params": [
+      178
+    ],
+    "effectRound": 15,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 9009,
+    "name": "鸿蒙镇天钟",
+    "description": "第15轮起生效",
+    "params": [
+      179
+    ],
+    "effectRound": 15,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 9010,
+    "name": "百草神炼鼎",
+    "description": "第15轮起生效",
+    "params": [
+      180
+    ],
+    "effectRound": 15,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 9011,
+    "name": "幽冥化生壶",
+    "description": "第15轮起生效",
+    "params": [
+      181
+    ],
+    "effectRound": 15,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 10001,
+    "name": "奇招之卷",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 10002,
+    "name": "逆命之卷",
+    "description": "",
+    "params": [
+      1,
+      10
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 10003,
+    "name": "门派之卷",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 11001,
+    "name": "剑宗秘卷",
+    "description": "",
+    "params": [
+      7
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 11002,
+    "name": "七星秘卷",
+    "description": "",
+    "params": [
+      7
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 11003,
+    "name": "五行秘卷",
+    "description": "",
+    "params": [
+      7
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 11004,
+    "name": "锻玄秘卷",
+    "description": "",
+    "params": [
+      7,
+      5,
+      3
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12001,
+    "name": "幻•暗鸦灵剑",
+    "description": "第9轮起生效",
+    "params": [
+      260
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12002,
+    "name": "幻•轻剑",
+    "description": "第9轮起生效",
+    "params": [
+      261
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12003,
+    "name": "幻•引气剑",
+    "description": "第10轮起生效",
+    "params": [
+      262
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12004,
+    "name": "幻•云剑探云",
+    "description": "第12轮起生效",
+    "params": [
+      264
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12005,
+    "name": "幻•斩草除根",
+    "description": "第9轮起生效",
+    "params": [
+      265
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12006,
+    "name": "幻•流水无情",
+    "description": "第9轮起生效",
+    "params": [
+      266
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12007,
+    "name": "幻•斗转星移",
+    "description": "第12轮起生效",
+    "params": [
+      269
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12008,
+    "name": "幻•火灵聚炎",
+    "description": "第9轮起生效",
+    "params": [
+      270
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12009,
+    "name": "幻•水灵波澜",
+    "description": "第12轮起生效",
+    "params": [
+      271
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12010,
+    "name": "幻•木灵复苏",
+    "description": "第9轮起生效",
+    "params": [
+      272
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12011,
+    "name": "幻•金灵针",
+    "description": "第9轮起生效",
+    "params": [
+      273
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12012,
+    "name": "幻•血气方刚",
+    "description": "第9轮起生效",
+    "params": [
+      275
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12013,
+    "name": "幻•锻骨",
+    "description": "第9轮起生效",
+    "params": [
+      277
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12014,
+    "name": "幻•气沉丹田",
+    "description": "第9轮起生效",
+    "params": [
+      278
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12015,
+    "name": "幻•云剑无锋",
+    "description": "第12轮起生效",
+    "params": [
+      288
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12016,
+    "name": "幻•飞星刺",
+    "description": "第12轮起生效",
+    "params": [
+      294
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12017,
+    "name": "幻•五行流转",
+    "description": "第12轮起生效",
+    "params": [
+      295
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12018,
+    "name": "幻•双鬼拍门",
+    "description": "第12轮起生效",
+    "params": [
+      296
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12019,
+    "name": "幻•罗刹扑",
+    "description": "第12轮起生效",
+    "params": [
+      297
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12020,
+    "name": "幻•藕断丝连",
+    "description": "第12轮起生效",
+    "params": [
+      298
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12021,
+    "name": "幻•土灵群山",
+    "description": "第12轮起生效",
+    "params": [
+      274
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12022,
+    "name": "幻•坤卦",
+    "description": "第9轮起生效",
+    "params": [
+      307
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12023,
+    "name": "幻•崩拳戳",
+    "description": "第12轮起生效",
+    "params": [
+      308
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12024,
+    "name": "幻•飞牙剑",
+    "description": "第10轮起生效",
+    "params": [
+      263
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12025,
+    "name": "幻•星罗棋布",
+    "description": "第9轮起生效",
+    "params": [
+      268
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12026,
+    "name": "幻•浑天印",
+    "description": "第12轮起生效",
+    "params": [
+      292
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12027,
+    "name": "幻•岿然不动",
+    "description": "第9轮起生效",
+    "params": [
+      291
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12028,
+    "name": "幻•落花有意",
+    "description": "第12轮起生效",
+    "params": [
+      289
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12029,
+    "name": "幻•云舞诀",
+    "description": "第12轮起生效",
+    "params": [
+      309
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12030,
+    "name": "幻•浩然正气",
+    "description": "第12轮起生效",
+    "params": [
+      310
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12031,
+    "name": "幻•狂剑盘龙",
+    "description": "第12轮起生效",
+    "params": [
+      312
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12032,
+    "name": "幻•金灵印",
+    "description": "第12轮起生效",
+    "params": [
+      316
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12033,
+    "name": "幻•土灵阵",
+    "description": "第9轮起生效",
+    "params": [
+      317
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12034,
+    "name": "幻•崩拳缠",
+    "description": "第12轮起生效",
+    "params": [
+      319
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12035,
+    "name": "幻•两仪阵",
+    "description": "第12轮起生效",
+    "params": [
+      320
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12036,
+    "name": "幻•灵犀剑阵",
+    "description": "第12轮起生效",
+    "params": [
+      325
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12037,
+    "name": "幻•火灵印",
+    "description": "第9轮起生效",
+    "params": [
+      315
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12038,
+    "name": "幻•死缠烂打",
+    "description": "第9轮起生效",
+    "params": [
+      318
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12039,
+    "name": "幻•勤拙剑",
+    "description": "第9轮起生效",
+    "params": [
+      323
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 12040,
+    "name": "幻•生机绽放",
+    "description": "第9轮起生效",
+    "params": [
+      324
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 13001,
+    "name": "淬毒刻纹",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": true,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 13002,
+    "name": "驱邪刻纹",
+    "description": "",
+    "params": [
+      2,
+      4
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": true,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 13003,
+    "name": "画龙刻纹",
+    "description": "",
+    "params": [
+      1
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": true,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 13004,
+    "name": "疗愈刻纹",
+    "description": "",
+    "params": [
+      20
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": true,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 13005,
+    "name": "混元刻纹",
+    "description": "",
+    "params": [
+      5
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": true,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 13006,
+    "name": "追击刻纹",
+    "description": "",
+    "params": [
+      6
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": true,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 13007,
+    "name": "厄劫刻纹",
+    "description": "",
+    "params": [
+      1
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": true,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 13008,
+    "name": "护体刻纹",
+    "description": "",
+    "params": [
+      2
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": true,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 13009,
+    "name": "水月刻纹",
+    "description": "",
+    "params": [
+      6,
+      2
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": true,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 13010,
+    "name": "移星刻纹",
+    "description": "",
+    "params": [
+      4
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": true,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 13011,
+    "name": "五行刻纹",
+    "description": "",
+    "params": [
+      4,
+      2,
+      8
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": true,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 13012,
+    "name": "气势刻纹",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": true,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 13013,
+    "name": "两仪刻纹",
+    "description": "",
+    "params": [
+      1,
+      1
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": true,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 13014,
+    "name": "坚体刻纹",
+    "description": "",
+    "params": [
+      2,
+      6
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": true,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 13015,
+    "name": "灰烬刻纹",
+    "description": "",
+    "params": [
+      6
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": true,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 13016,
+    "name": "剑意刻纹",
+    "description": "",
+    "params": [
+      2,
+      2
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": true,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 13017,
+    "name": "灵蛇刻纹",
+    "description": "",
+    "params": [
+      1,
+      1
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": true,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 13018,
+    "name": "水木刻纹",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": true,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 13019,
+    "name": "玄疗刻纹",
+    "description": "",
+    "params": [
+      6
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": true,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 14001,
+    "name": "迅影飞剑",
+    "description": "第12轮起生效",
+    "params": [
+      1000094
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 14002,
+    "name": "云剑•追风",
+    "description": "第12轮起生效",
+    "params": [
+      1000098
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 14003,
+    "name": "灵枢剑阵",
+    "description": "第12轮起生效",
+    "params": [
+      1000092
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 14004,
+    "name": "弯弓射虎",
+    "description": "第13轮起生效",
+    "params": [
+      4000097
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 14005,
+    "name": "星弈•劫争",
+    "description": "第13轮起生效",
+    "params": [
+      4000094
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 14006,
+    "name": "灵蛇绕柱",
+    "description": "第13轮起生效",
+    "params": [
+      4000095
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 14007,
+    "name": "土灵•遁地",
+    "description": "第10轮起生效",
+    "params": [
+      7000096
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 14008,
+    "name": "木灵•春风拂",
+    "description": "第13轮起生效",
+    "params": [
+      7000097
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 14009,
+    "name": "水灵•乘风浪",
+    "description": "第13轮起生效",
+    "params": [
+      7000100
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 14010,
+    "name": "金灵•回锋刃",
+    "description": "第13轮起生效",
+    "params": [
+      7000099
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 14011,
+    "name": "火灵•焚脉诀",
+    "description": "第13轮起生效",
+    "params": [
+      7000098
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 14012,
+    "name": "混元化灵",
+    "description": "第13轮起生效",
+    "params": [
+      7000101
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 14013,
+    "name": "玄灵愈体",
+    "description": "第9轮起生效",
+    "params": [
+      10000091
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 14014,
+    "name": "崩拳•碎骨",
+    "description": "第13轮起生效",
+    "params": [
+      10000093
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 14015,
+    "name": "万魂破军",
+    "description": "第12轮起生效",
+    "params": [
+      10000094
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 14016,
+    "name": "血影遁术",
+    "description": "第12轮起生效",
+    "params": [
+      10000095
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 14017,
+    "name": "飞豹灵剑",
+    "description": "第9轮起生效",
+    "params": [
+      1000090
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 14018,
+    "name": "剑影结界",
+    "description": "第12轮起生效",
+    "params": [
+      1000095
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 14019,
+    "name": "星弈•长",
+    "description": "第8轮起生效",
+    "params": [
+      4000093
+    ],
+    "effectRound": 8,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 14020,
+    "name": "折枝点穴",
+    "description": "第12轮起生效",
+    "params": [
+      4000096
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 14021,
+    "name": "凌空飞扫",
+    "description": "第8轮起生效",
+    "params": [
+      10000092
+    ],
+    "effectRound": 8,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 14022,
+    "name": "醉拳架势",
+    "description": "第8轮起生效",
+    "params": [
+      10000090
+    ],
+    "effectRound": 8,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 15001,
+    "name": "副职大师",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 15002,
+    "name": "云剑大师",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 15003,
+    "name": "剑阵大师",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 15004,
+    "name": "五行大师",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 15005,
+    "name": "灵剑大师",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 15006,
+    "name": "剑意大师",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 15007,
+    "name": "混元大师",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 15008,
+    "name": "星弈大师",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 15009,
+    "name": "卦象大师",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 15010,
+    "name": "崩拳大师",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 15011,
+    "name": "体魄大师",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 15012,
+    "name": "修玄大师",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 15013,
+    "name": "再动大师",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 15014,
+    "name": "元婴修行",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 15015,
+    "name": "天衍-休养生息",
+    "description": "",
+    "params": [
+      18,
+      2,
+      2
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 15016,
+    "name": "道韵气息",
+    "description": "第13轮起生效",
+    "params": [
+      46
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 15018,
+    "name": "徐如林",
+    "description": "",
+    "params": [
+      12
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 15019,
+    "name": "铜镜",
+    "description": "",
+    "params": [
+      6,
+      5
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 15020,
+    "name": "随心悟道",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 15021,
+    "name": "静心悟道",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 15022,
+    "name": "记忆案卷",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 15023,
+    "name": "探索未知",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 15024,
+    "name": "百宝箱",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 15025,
+    "name": "生命底蕴",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 15026,
+    "name": "换牌底蕴",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 16001,
+    "name": "副职转换",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 16002,
+    "name": "全能副职",
+    "description": "",
+    "params": [
+      10
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 16003,
+    "name": "天衍-触类旁通",
+    "description": "",
+    "params": [
+      4
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 16004,
+    "name": "悟道丹",
+    "description": "第13轮起生效",
+    "params": [
+      2000015
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 16005,
+    "name": "冰灵护体丹",
+    "description": "第12轮起生效",
+    "params": [
+      2010013
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 16006,
+    "name": "万邪入体咒",
+    "description": "第12轮起生效",
+    "params": [
+      3010015
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 16007,
+    "name": "千里神行符",
+    "description": "第13轮起生效",
+    "params": [
+      3000013
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 16008,
+    "name": "转弦合调",
+    "description": "第13轮起生效",
+    "params": [
+      5000014
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 16009,
+    "name": "天音困仙曲",
+    "description": "第12轮起生效",
+    "params": [
+      5010015
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 16010,
+    "name": "画龙点睛",
+    "description": "第11轮起生效",
+    "params": [
+      6010013
+    ],
+    "effectRound": 11,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 16011,
+    "name": "运笔如飞",
+    "description": "第11轮起生效",
+    "params": [
+      6010012
+    ],
+    "effectRound": 11,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 16012,
+    "name": "须弥阵纹",
+    "description": "第11轮起生效",
+    "params": [
+      8010014
+    ],
+    "effectRound": 11,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 16013,
+    "name": "阵纹雕琢",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 16014,
+    "name": "变异浇灌",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 16015,
+    "name": "空间灵田",
+    "description": "第13轮起生效",
+    "params": [
+      9000015
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 16016,
+    "name": "厄劫缠身",
+    "description": "第11轮起生效",
+    "params": [
+      11010018
+    ],
+    "effectRound": 11,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 16017,
+    "name": "命运轮回",
+    "description": "第12轮起生效",
+    "params": [
+      11010021
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 16018,
+    "name": "副职悟道",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 16019,
+    "name": "钻研副职",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 16020,
+    "name": "天衍-以画入道",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 16021,
+    "name": "随心画卷",
+    "description": "",
+    "params": [
+      6000002,
+      6000009,
+      6000010,
+      6000015
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 16022,
+    "name": "极•画龙点睛",
+    "description": "第13轮起生效",
+    "params": [
+      448
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 16023,
+    "name": "天衍-妙笔生花",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 16024,
+    "name": "天衍-落纸云烟",
+    "description": "",
+    "params": [
+      10,
+      10,
+      1,
+      1
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 16025,
+    "name": "天衍-练笔",
+    "description": "",
+    "params": [
+      5,
+      10
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17001,
+    "name": "云剑•龙泉",
+    "description": "第13轮起生效",
+    "params": [
+      122,
+      2
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17002,
+    "name": "云剑•雪影飞",
+    "description": "第13轮起生效",
+    "params": [
+      123,
+      1
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17003,
+    "name": "百鸟玲珑镯",
+    "description": "第12轮起生效",
+    "params": [
+      124,
+      4
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17004,
+    "name": "狂剑•猫爪",
+    "description": "第10轮起生效",
+    "params": [
+      125
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17005,
+    "name": "澄心剑阵",
+    "description": "第14轮起生效",
+    "params": [
+      126,
+      1
+    ],
+    "effectRound": 14,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17006,
+    "name": "百鸟曳影诀",
+    "description": "第12轮起生效",
+    "params": [
+      388,
+      4
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17007,
+    "name": "瑞雪迎春",
+    "description": "第10轮起生效",
+    "params": [
+      127,
+      2
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17008,
+    "name": "天元无极盘",
+    "description": "第13轮起生效",
+    "params": [
+      128,
+      1
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17009,
+    "name": "灯影蚀焰",
+    "description": "第10轮起生效",
+    "params": [
+      129,
+      1
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17010,
+    "name": "千星天爆",
+    "description": "第9轮起生效",
+    "params": [
+      130,
+      4
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17011,
+    "name": "星月六爻扇",
+    "description": "第12轮起生效",
+    "params": [
+      131,
+      3
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17012,
+    "name": "星弈•治孤",
+    "description": "第12轮起生效",
+    "params": [
+      389,
+      3
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17013,
+    "name": "天髓葫芦",
+    "description": "第13轮起生效",
+    "params": [
+      132,
+      2
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17014,
+    "name": "混元逆克阵",
+    "description": "第13轮起生效",
+    "params": [
+      133,
+      2
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17015,
+    "name": "木灵•万物生",
+    "description": "第13轮起生效",
+    "params": [
+      134,
+      2
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17016,
+    "name": "锟铻熔火环",
+    "description": "第6轮起生效",
+    "params": [
+      135,
+      4
+    ],
+    "effectRound": 6,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17017,
+    "name": "水火交融",
+    "description": "第10轮起生效",
+    "params": [
+      136,
+      2
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17018,
+    "name": "五行忘忧梦",
+    "description": "第12轮起生效",
+    "params": [
+      390,
+      2
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17019,
+    "name": "浩荡不息",
+    "description": "第13轮起生效",
+    "params": [
+      137,
+      3
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17020,
+    "name": "玄心盛气掌",
+    "description": "第13轮起生效",
+    "params": [
+      138
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17021,
+    "name": "冥夜迷踪步",
+    "description": "第8轮起生效",
+    "params": [
+      139
+    ],
+    "effectRound": 8,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17022,
+    "name": "崩拳•返玄",
+    "description": "第10轮起生效",
+    "params": [
+      140,
+      4
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17023,
+    "name": "闪转腾挪",
+    "description": "第13轮起生效",
+    "params": [
+      391,
+      2
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17024,
+    "name": "冯虚御风",
+    "description": "第11轮起生效",
+    "params": [
+      392,
+      2
+    ],
+    "effectRound": 11,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17025,
+    "name": "云剑•狂炎",
+    "description": "第14轮起生效",
+    "params": [
+      401,
+      1
+    ],
+    "effectRound": 14,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17026,
+    "name": "云剑•猫影",
+    "description": "第10轮起生效",
+    "params": [
+      403,
+      4
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17027,
+    "name": "雷闪二度",
+    "description": "第13轮起生效",
+    "params": [
+      407,
+      3
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17028,
+    "name": "火灵•焚花印",
+    "description": "第12轮起生效",
+    "params": [
+      413
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17029,
+    "name": "疯魔架势",
+    "description": "第6轮起生效",
+    "params": [
+      415,
+      3
+    ],
+    "effectRound": 6,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17030,
+    "name": "万玄锻灵",
+    "description": "第13轮起生效",
+    "params": [
+      417,
+      3
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17031,
+    "name": "水灵•劲浪",
+    "description": "第13轮起生效",
+    "params": [
+      423,
+      3
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17032,
+    "name": "紫芒星爆",
+    "description": "第12轮起生效",
+    "params": [
+      422,
+      4
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17033,
+    "name": "阴符绝阵",
+    "description": "第10轮起生效",
+    "params": [
+      429,
+      3
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17034,
+    "name": "极•云剑柔心",
+    "description": "第13轮起生效",
+    "params": [
+      1000026,
+      1000096,
+      6
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17035,
+    "name": "极•暗鸦灵剑",
+    "description": "第13轮起生效",
+    "params": [
+      1000020,
+      1000097,
+      6
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17036,
+    "name": "极•静气心法",
+    "description": "第14轮起生效",
+    "params": [
+      4000027,
+      4000098,
+      4
+    ],
+    "effectRound": 14,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17037,
+    "name": "极•两仪阵",
+    "description": "第13轮起生效",
+    "params": [
+      4000040,
+      4000099,
+      6
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17038,
+    "name": "极•水灵阵",
+    "description": "第13轮起生效",
+    "params": [
+      7000029,
+      7000104,
+      6
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17039,
+    "name": "极•木灵巡林",
+    "description": "第13轮起生效",
+    "params": [
+      7000028,
+      7000105,
+      6
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17040,
+    "name": "极•崩天步",
+    "description": "第13轮起生效",
+    "params": [
+      10000026,
+      10000098,
+      6
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17041,
+    "name": "极•迎风掌",
+    "description": "第14轮起生效",
+    "params": [
+      10000028,
+      10000099,
+      6
+    ],
+    "effectRound": 14,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17042,
+    "name": "极•狂剑一式",
+    "description": "第14轮起生效",
+    "params": [
+      1000022,
+      1000099,
+      4
+    ],
+    "effectRound": 14,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17043,
+    "name": "极•灵犀剑阵",
+    "description": "第12轮起生效",
+    "params": [
+      1000033,
+      1000100,
+      4
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": false,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17044,
+    "name": "极•六爻绝阵",
+    "description": "第13轮起生效",
+    "params": [
+      4000014,
+      4000100,
+      8
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17045,
+    "name": "极•螳螂捕蝉",
+    "description": "第12轮起生效",
+    "params": [
+      4000043,
+      4000101,
+      6
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 2000005
+  },
+  {
+    "id": 17046,
+    "name": "极•金灵阵",
+    "description": "第13轮起生效",
+    "params": [
+      7000016,
+      7000108,
+      4
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17047,
+    "name": "极•五行灵击",
+    "description": "第12轮起生效",
+    "params": [
+      7000095,
+      7000107,
+      6
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17048,
+    "name": "极•锻骨",
+    "description": "第13轮起生效",
+    "params": [
+      10000027,
+      10000100,
+      6
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17049,
+    "name": "极•夜鬼啸",
+    "description": "第13轮起生效",
+    "params": [
+      10000019,
+      10000101,
+      4
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17050,
+    "name": "极•水灵春雨",
+    "description": "第13轮起生效",
+    "params": [
+      428
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17051,
+    "name": "极•锟铻金环",
+    "description": "第13轮起生效",
+    "params": [
+      426
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17052,
+    "name": "极•盛气凌人",
+    "description": "第12轮起生效",
+    "params": [
+      418
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17053,
+    "name": "极•飞鸿踏雪",
+    "description": "第13轮起生效",
+    "params": [
+      425
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17058,
+    "name": "狂剑•云寂",
+    "description": "第12轮起生效",
+    "params": [
+      400,
+      3
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17059,
+    "name": "云剑•星空",
+    "description": "第13轮起生效",
+    "params": [
+      141
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17060,
+    "name": "金灵•流星",
+    "description": "第10轮起生效",
+    "params": [
+      143
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17061,
+    "name": "御龙狂影",
+    "description": "",
+    "params": [
+      331,
+      1000049,
+      1000061
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17062,
+    "name": "星空棋局",
+    "description": "",
+    "params": [
+      4000054,
+      4000051,
+      4000065,
+      53
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17063,
+    "name": "剑阵之心",
+    "description": "",
+    "params": [
+      1000025,
+      1000064,
+      1000092
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17064,
+    "name": "极•灯焰飞舞",
+    "description": "第13轮起生效",
+    "params": [
+      436
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17065,
+    "name": "极•锻体不息",
+    "description": "第12轮起生效",
+    "params": [
+      437
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17066,
+    "name": "极•双鸳逆克",
+    "description": "第12轮起生效",
+    "params": [
+      438
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17067,
+    "name": "剑阵秘术",
+    "description": "",
+    "params": [
+      1000062,
+      1000051
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17068,
+    "name": "孤舟平澜",
+    "description": "",
+    "params": [
+      55,
+      371
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17069,
+    "name": "极•云剑猫爪",
+    "description": "第12轮起生效",
+    "params": [
+      424
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17070,
+    "name": "极•镇印心法",
+    "description": "第12轮起生效",
+    "params": [
+      7000094,
+      7000106,
+      4
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17071,
+    "name": "御浪冲霄",
+    "description": "",
+    "params": [
+      10000042,
+      10000043,
+      10000098
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17072,
+    "name": "极•冥心入玄",
+    "description": "第13轮起生效",
+    "params": [
+      439
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17073,
+    "name": "极•灵羽",
+    "description": "第13轮起生效",
+    "params": [
+      440
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17074,
+    "name": "流沙秘印",
+    "description": "第10轮起生效",
+    "params": [
+      441,
+      2
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17075,
+    "name": "凝意生机诀",
+    "description": "第10轮起生效",
+    "params": [
+      183
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17076,
+    "name": "云剑•空明",
+    "description": "第10轮起生效",
+    "params": [
+      184
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17077,
+    "name": "狂剑•降神",
+    "description": "第13轮起生效",
+    "params": [
+      186
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17078,
+    "name": "天机•地煞",
+    "description": "第12轮起生效",
+    "params": [
+      189
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17079,
+    "name": "弯弓惊雀",
+    "description": "",
+    "params": [
+      4000097,
+      190
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17080,
+    "name": "春雷霹雳曲",
+    "description": "第10轮起生效",
+    "params": [
+      192
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17081,
+    "name": "浮光掠影",
+    "description": "第10轮起生效",
+    "params": [
+      193
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17082,
+    "name": "星弈•跳",
+    "description": "第12轮起生效",
+    "params": [
+      196
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17083,
+    "name": "浑天运笔",
+    "description": "第12轮起生效",
+    "params": [
+      200
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17084,
+    "name": "五行灵田",
+    "description": "第13轮起生效",
+    "params": [
+      202
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17085,
+    "name": "木灵天罡阵",
+    "description": "第9轮起生效",
+    "params": [
+      201
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17086,
+    "name": "灵气锻身",
+    "description": "第9轮起生效",
+    "params": [
+      205
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17087,
+    "name": "锻龙诀",
+    "description": "第13轮起生效",
+    "params": [
+      207
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17088,
+    "name": "势灵阵",
+    "description": "第13轮起生效",
+    "params": [
+      208
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17089,
+    "name": "崩拳•夺星",
+    "description": "第9轮起生效",
+    "params": [
+      144
+    ],
+    "effectRound": 9,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17090,
+    "name": "灵玄不息",
+    "description": "第10轮起生效",
+    "params": [
+      416,
+      3
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17091,
+    "name": "气吞星河",
+    "description": "第12轮起生效",
+    "params": [
+      152
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17092,
+    "name": "水灵•悠然",
+    "description": "第10轮起生效",
+    "params": [
+      258
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17093,
+    "name": "极•霸王举鼎",
+    "description": "第13轮起生效",
+    "params": [
+      10000102,
+      10000110,
+      4
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17094,
+    "name": "极•火灵轰爆",
+    "description": "第13轮起生效",
+    "params": [
+      7000032,
+      7000117,
+      6
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17095,
+    "name": "修罗玄龙棍",
+    "description": "第12轮起生效",
+    "params": [
+      419
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17096,
+    "name": "云剑•月旋",
+    "description": "第13轮起生效",
+    "params": [
+      311,
+      1
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17097,
+    "name": "天髓逆克诀",
+    "description": "第12轮起生效",
+    "params": [
+      455,
+      2
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17098,
+    "name": "浮云连环步",
+    "description": "第12轮起生效",
+    "params": [
+      402,
+      4
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17099,
+    "name": "云剑•追影",
+    "description": "第13轮起生效",
+    "params": [
+      1000093,
+      2
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17100,
+    "name": "星弈•渡",
+    "description": "第10轮起生效",
+    "params": [
+      405,
+      1
+    ],
+    "effectRound": 10,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 17101,
+    "name": "星弈•镇",
+    "description": "第12轮起生效",
+    "params": [
+      456,
+      3
+    ],
+    "effectRound": 12,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 18001,
+    "name": "换牌之卷",
+    "description": "",
+    "params": [
+      5,
+      5,
+      5
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 18002,
+    "name": "生命之卷",
+    "description": "",
+    "params": [
+      5,
+      5,
+      5
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 18003,
+    "name": "招式之卷",
+    "description": "",
+    "params": [
+      6,
+      1,
+      5
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 18004,
+    "name": "悟道之卷",
+    "description": "",
+    "params": [
+      5,
+      1,
+      5
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 18005,
+    "name": "变换之卷",
+    "description": "",
+    "params": [
+      5,
+      5
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 19001,
+    "name": "逍遥修行•命元",
+    "description": "",
+    "params": [
+      2
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 19002,
+    "name": "逍遥修行•换牌",
+    "description": "",
+    "params": [
+      1
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 19003,
+    "name": "逍遥修行•生命",
+    "description": "",
+    "params": [
+      1
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 19004,
+    "name": "逍遥修行•逍遥曲",
+    "description": "",
+    "params": [
+      1
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20001,
+    "name": "梦•灵气灌注",
+    "description": "",
+    "params": [
+      1000067
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20002,
+    "name": "梦•云剑点星",
+    "description": "",
+    "params": [
+      1000069
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20003,
+    "name": "梦•云剑极意",
+    "description": "",
+    "params": [
+      1000070
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20004,
+    "name": "梦•飞牙剑",
+    "description": "",
+    "params": [
+      1000071
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20005,
+    "name": "梦•云舞诀",
+    "description": "",
+    "params": [
+      1000072
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20006,
+    "name": "梦•万法归灵剑",
+    "description": "",
+    "params": [
+      1000075
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20007,
+    "name": "梦•狂剑零式",
+    "description": "",
+    "params": [
+      1000076
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20008,
+    "name": "梦•灵犀剑阵",
+    "description": "",
+    "params": [
+      1000077
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20009,
+    "name": "梦•云剑厚土",
+    "description": "",
+    "params": [
+      1000078
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20010,
+    "name": "梦•反身剑",
+    "description": "",
+    "params": [
+      1000079
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20013,
+    "name": "梦•凝意诀",
+    "description": "",
+    "params": [
+      1000085
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20014,
+    "name": "梦•云剑汇灵",
+    "description": "",
+    "params": [
+      1000086
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20016,
+    "name": "梦•星弈挡",
+    "description": "",
+    "params": [
+      4000069
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20017,
+    "name": "梦•轰雷掣电",
+    "description": "",
+    "params": [
+      4000071
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20018,
+    "name": "梦•两仪阵",
+    "description": "",
+    "params": [
+      4000072
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20019,
+    "name": "梦•落花有意",
+    "description": "",
+    "params": [
+      4000074
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20020,
+    "name": "梦•黄雀在后",
+    "description": "",
+    "params": [
+      4000075
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20022,
+    "name": "梦•斗转星移",
+    "description": "",
+    "params": [
+      4000079
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20023,
+    "name": "梦•离卦",
+    "description": "",
+    "params": [
+      4000080
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20024,
+    "name": "梦•杯弓蛇影",
+    "description": "",
+    "params": [
+      4000082
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20025,
+    "name": "梦•气疗术",
+    "description": "",
+    "params": [
+      4000083
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20026,
+    "name": "梦•星罗棋布",
+    "description": "",
+    "params": [
+      4000084
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20027,
+    "name": "梦•白蛇吐信",
+    "description": "",
+    "params": [
+      4000085
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20028,
+    "name": "梦•乾卦",
+    "description": "",
+    "params": [
+      4000086
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20029,
+    "name": "梦•枯木逢春",
+    "description": "第13轮起生效",
+    "params": [
+      4040087
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20031,
+    "name": "梦•金灵阵",
+    "description": "",
+    "params": [
+      7000074
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20032,
+    "name": "梦•浑天印",
+    "description": "",
+    "params": [
+      7000075
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20033,
+    "name": "梦•水灵波澜",
+    "description": "",
+    "params": [
+      7000076
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20035,
+    "name": "梦•混元无极阵",
+    "description": "",
+    "params": [
+      7000078
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20036,
+    "name": "梦•水灵泉涌",
+    "description": "",
+    "params": [
+      7000079
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20037,
+    "name": "梦•木灵阵",
+    "description": "",
+    "params": [
+      7000081
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20039,
+    "name": "梦•火灵瞬燃",
+    "description": "",
+    "params": [
+      7000083
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20040,
+    "name": "梦•金灵铁骨",
+    "description": "",
+    "params": [
+      7000084
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20041,
+    "name": "梦•土灵绝壁",
+    "description": "",
+    "params": [
+      7000086
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20042,
+    "name": "梦•五行天髓诀",
+    "description": "",
+    "params": [
+      7000087
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20043,
+    "name": "梦•木灵芽",
+    "description": "",
+    "params": [
+      7000088
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20044,
+    "name": "梦•火灵阵",
+    "description": "",
+    "params": [
+      7000090
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20045,
+    "name": "梦•土灵断崖",
+    "description": "",
+    "params": [
+      7000091
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20047,
+    "name": "梦•水灵汹涌",
+    "description": "",
+    "params": [
+      7000103
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20048,
+    "name": "梦•灵玄迷踪步",
+    "description": "",
+    "params": [
+      10000069
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20049,
+    "name": "梦•修罗吼",
+    "description": "",
+    "params": [
+      10000070
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20051,
+    "name": "梦•锻神开海",
+    "description": "",
+    "params": [
+      10000072
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20052,
+    "name": "梦•冲霄破浪",
+    "description": "",
+    "params": [
+      10000073
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20053,
+    "name": "梦•崩拳突",
+    "description": "",
+    "params": [
+      10000074
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20054,
+    "name": "梦•冥影身法",
+    "description": "",
+    "params": [
+      10000077
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20055,
+    "name": "梦•朝气蓬勃",
+    "description": "",
+    "params": [
+      10000078
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20056,
+    "name": "梦•劈山掌",
+    "description": "",
+    "params": [
+      10000079
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20058,
+    "name": "梦•荷重前行",
+    "description": "",
+    "params": [
+      10000083
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20059,
+    "name": "梦•磅礴之势",
+    "description": "",
+    "params": [
+      10000086
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20060,
+    "name": "梦•锻拳",
+    "description": "",
+    "params": [
+      10000087
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 20061,
+    "name": "梦•落雷术",
+    "description": "",
+    "params": [
+      4000073
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 21001,
+    "name": "丹药感悟",
+    "description": "",
+    "params": [
+      1
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 21002,
+    "name": "符咒感悟",
+    "description": "",
+    "params": [
+      2
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 21003,
+    "name": "琴音感悟",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 21004,
+    "name": "画卷感悟",
+    "description": "",
+    "params": [
+      4
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 21005,
+    "name": "阵法感悟",
+    "description": "",
+    "params": [
+      5
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 21006,
+    "name": "灵植感悟",
+    "description": "",
+    "params": [
+      6
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 21007,
+    "name": "命理感悟",
+    "description": "",
+    "params": [
+      7
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 22001,
+    "name": "回收之卷•命元",
+    "description": "",
+    "params": [
+      2,
+      7,
+      4
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 22002,
+    "name": "回收之卷•换牌",
+    "description": "",
+    "params": [
+      2,
+      7,
+      2
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 22003,
+    "name": "回收之卷•生命",
+    "description": "",
+    "params": [
+      5,
+      7,
+      2
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23001,
+    "name": "道途-云剑月影",
+    "description": "",
+    "params": [
+      1000001,
+      1000026,
+      1000040
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23002,
+    "name": "道途-飞灵闪影剑",
+    "description": "",
+    "params": [
+      1000010,
+      1000032,
+      1000043
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23003,
+    "name": "道途-百鸟灵剑诀",
+    "description": "",
+    "params": [
+      1000007,
+      1000019,
+      1000029,
+      1000065
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23004,
+    "name": "道途-狂剑二式",
+    "description": "",
+    "params": [
+      1000022,
+      1000035
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23005,
+    "name": "道途-御空剑阵",
+    "description": "",
+    "params": [
+      1000005,
+      1000046,
+      1000025
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23006,
+    "name": "道途-天元心法",
+    "description": "",
+    "params": [
+      4000029,
+      4000045
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23007,
+    "name": "道途-乾卦",
+    "description": "",
+    "params": [
+      4000001,
+      4000068,
+      4000026
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23008,
+    "name": "道途-黄雀在后",
+    "description": "",
+    "params": [
+      4000033,
+      4000066
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23009,
+    "name": "道途-气吞山河",
+    "description": "",
+    "params": [
+      4000027,
+      4000017,
+      4000060
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23010,
+    "name": "道途-杯弓蛇影",
+    "description": "",
+    "params": [
+      4000021,
+      4000022,
+      4000059
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23011,
+    "name": "道途-木灵暗香",
+    "description": "",
+    "params": [
+      7000004,
+      7000028,
+      7000061
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23012,
+    "name": "道途-火灵烈燎原",
+    "description": "",
+    "params": [
+      7000031,
+      7000056
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23013,
+    "name": "道途-土灵合八荒",
+    "description": "",
+    "params": [
+      7000023,
+      7000053
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23014,
+    "name": "道途-金灵巨鼎落",
+    "description": "",
+    "params": [
+      7000016,
+      7000042
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23015,
+    "name": "道途-水灵腾浪",
+    "description": "",
+    "params": [
+      7000007,
+      7000029,
+      7000030
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23016,
+    "name": "道途-混元无极阵",
+    "description": "",
+    "params": [
+      7000060,
+      7000066,
+      7000058
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23017,
+    "name": "道途-百杀破境掌",
+    "description": "",
+    "params": [
+      10000028,
+      10000047
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23018,
+    "name": "道途-崩灭心法",
+    "description": "",
+    "params": [
+      10000036,
+      10000044
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23019,
+    "name": "道途-冲霄破浪",
+    "description": "",
+    "params": [
+      10000011,
+      10000020,
+      10000042
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23020,
+    "name": "道途-玄心斩魄",
+    "description": "",
+    "params": [
+      10000030,
+      10000068
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23021,
+    "name": "道途-鹤步",
+    "description": "",
+    "params": [
+      10000006,
+      10000027,
+      10000038
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23022,
+    "name": "道途-锻神开海",
+    "description": "",
+    "params": [
+      10000004,
+      10000102,
+      10000048
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23023,
+    "name": "道途-轰雷掣电",
+    "description": "",
+    "params": [
+      4000003,
+      4000030,
+      4000063
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23024,
+    "name": "道途-剑意激荡",
+    "description": "",
+    "params": [
+      1000012,
+      1000017,
+      1000044
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23037,
+    "name": "天衍-云雾变幻",
+    "description": "",
+    "params": [
+      2
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23038,
+    "name": "潜龙道途",
+    "description": "",
+    "params": [
+      331,
+      1000102,
+      1000035,
+      1000042
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23039,
+    "name": "天衍-龙脉传承",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23040,
+    "name": "天衍-好奇心",
+    "description": "",
+    "params": [
+      1
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23041,
+    "name": "潜能觉醒",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23042,
+    "name": "天衍-飞砂",
+    "description": "第4轮起生效",
+    "params": [
+      36
+    ],
+    "effectRound": 4,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23043,
+    "name": "以战淬剑",
+    "description": "第3轮起生效",
+    "params": [
+      1
+    ],
+    "effectRound": 3,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23044,
+    "name": "悟剑合一",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23045,
+    "name": "淬剑-灵气",
+    "description": "",
+    "params": [
+      1
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23046,
+    "name": "天衍-勤学苦练",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23047,
+    "name": "天衍-血脉威能",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23048,
+    "name": "天衍-先天灵躯",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23049,
+    "name": "天衍-运筹帷幄",
+    "description": "",
+    "params": [
+      10
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23050,
+    "name": "天衍-算无遗策",
+    "description": "",
+    "params": [
+      22
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23051,
+    "name": "天衍-风行天上",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23052,
+    "name": "天衍-战斗历练",
+    "description": "",
+    "params": [
+      6
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23053,
+    "name": "天衍-先天灵阵",
+    "description": "第6轮起生效",
+    "params": [],
+    "effectRound": 6,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23054,
+    "name": "有缘人",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23055,
+    "name": "天衍-桃花印",
+    "description": "第4轮起生效",
+    "params": [
+      20
+    ],
+    "effectRound": 4,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23056,
+    "name": "土金修行",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23057,
+    "name": "秘印转换",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23058,
+    "name": "天衍-五行玉瓶",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23059,
+    "name": "精打细算",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23060,
+    "name": "天衍-锻躯之道",
+    "description": "",
+    "params": [
+      1
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23061,
+    "name": "天衍-疯魔",
+    "description": "第5轮起生效",
+    "params": [
+      73
+    ],
+    "effectRound": 5,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23062,
+    "name": "天衍-禅心锻身",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23063,
+    "name": "天衍-拆招",
+    "description": "第4轮起生效",
+    "params": [
+      221
+    ],
+    "effectRound": 4,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23064,
+    "name": "天衍-双节棍",
+    "description": "第3轮起生效",
+    "params": [
+      219
+    ],
+    "effectRound": 3,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23065,
+    "name": "天衍-灵羽",
+    "description": "第7轮起生效",
+    "params": [
+      381
+    ],
+    "effectRound": 7,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23066,
+    "name": "木虎",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23067,
+    "name": "囤囤鼠",
+    "description": "",
+    "params": [
+      15
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23068,
+    "name": "天衍-磨砺不止",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23069,
+    "name": "黯星伤魂",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": true,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23070,
+    "name": "天衍-阴符玉简",
+    "description": "第4轮起生效",
+    "params": [
+      214
+    ],
+    "effectRound": 4,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23071,
+    "name": "天衍-悠然葫芦",
+    "description": "第6轮起生效",
+    "params": [
+      13
+    ],
+    "effectRound": 6,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23072,
+    "name": "天衍-天降甘霖",
+    "description": "第6轮起生效",
+    "params": [
+      259
+    ],
+    "effectRound": 6,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23073,
+    "name": "云狂修行",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23074,
+    "name": "化炎",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23075,
+    "name": "天衍-云影化身",
+    "description": "",
+    "params": [
+      50,
+      2
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23076,
+    "name": "天衍-阴晴圆缺",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23077,
+    "name": "天衍-观壁悟道",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23078,
+    "name": "天衍-记忆碎片",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23079,
+    "name": "料敌机先",
+    "description": "第3轮起生效",
+    "params": [
+      3
+    ],
+    "effectRound": 3,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23080,
+    "name": "相生灵阵",
+    "description": "",
+    "params": [
+      5
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23081,
+    "name": "拳锻修行",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23082,
+    "name": "驭风修行",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23083,
+    "name": "雷卦修行",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23084,
+    "name": "踏雪修行",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23085,
+    "name": "天衍-猫薄荷",
+    "description": "",
+    "params": [
+      34
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 23086,
+    "name": "天衍-凡躯",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 24001,
+    "name": "突破之道•一",
+    "description": "",
+    "params": [
+      5,
+      1,
+      4
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 24002,
+    "name": "换牌之道•一",
+    "description": "",
+    "params": [
+      6
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 24003,
+    "name": "锻体之道•一",
+    "description": "",
+    "params": [
+      6
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 24004,
+    "name": "休养之道",
+    "description": "",
+    "params": [
+      14
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 24005,
+    "name": "境界之道•一",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 24006,
+    "name": "镜像之道",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 24007,
+    "name": "衍生之道•一",
+    "description": "",
+    "params": [
+      3,
+      6
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 24008,
+    "name": "副职之道",
+    "description": "",
+    "params": [
+      6,
+      2
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 24009,
+    "name": "封印之道•一",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 24010,
+    "name": "险境之道•一",
+    "description": "",
+    "params": [
+      50,
+      4,
+      4
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 24011,
+    "name": "变数之道•一",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 24012,
+    "name": "金丹之道",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 25001,
+    "name": "记忆之道",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 25002,
+    "name": "探索之道",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 25003,
+    "name": "全能之道",
+    "description": "",
+    "params": [
+      12,
+      3,
+      3
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 25004,
+    "name": "悟道之道",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 25005,
+    "name": "换牌之道•二",
+    "description": "",
+    "params": [
+      10
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 25006,
+    "name": "锻体之道•二",
+    "description": "",
+    "params": [
+      10
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 25007,
+    "name": "元婴之道",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 25008,
+    "name": "道韵之道",
+    "description": "第13轮起生效",
+    "params": [
+      46
+    ],
+    "effectRound": 13,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 25009,
+    "name": "封印之道•二",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 25010,
+    "name": "险境之道•二",
+    "description": "",
+    "params": [
+      50,
+      6,
+      6
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 25011,
+    "name": "突破之道•二",
+    "description": "",
+    "params": [
+      3
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 25012,
+    "name": "境界之道•二",
+    "description": "",
+    "params": [
+      4,
+      3
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 25013,
+    "name": "变数之道•二",
+    "description": "",
+    "params": [
+      5
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 25014,
+    "name": "衍生之道•二",
+    "description": "",
+    "params": [
+      4,
+      4
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 26002,
+    "name": "太虚熔炉",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 26003,
+    "name": "星图画镜",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 26004,
+    "name": "万卷书阁",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 26005,
+    "name": "玄冥玉壶",
+    "description": "",
+    "params": [],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 27001,
+    "name": "命途共鸣-牧逸风",
+    "description": "",
+    "params": [
+      66,
+      14,
+      7,
+      17
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 27002,
+    "name": "命途共鸣-炎雪",
+    "description": "",
+    "params": [
+      67,
+      68,
+      23,
+      22
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 27003,
+    "name": "命途共鸣-龙瑶",
+    "description": "",
+    "params": [
+      25,
+      27,
+      85,
+      86
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 27004,
+    "name": "命途共鸣-林小月",
+    "description": "",
+    "params": [
+      44,
+      45,
+      46,
+      15
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 27005,
+    "name": "命途共鸣-陆剑心",
+    "description": "",
+    "params": [
+      93,
+      94,
+      95,
+      96
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 27006,
+    "name": "命途共鸣-黎承云",
+    "description": "",
+    "params": [
+      191,
+      193
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 27007,
+    "name": "命途共鸣-谭舒雁",
+    "description": "",
+    "params": [
+      63,
+      64,
+      65,
+      42
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 27008,
+    "name": "命途共鸣-炎尘",
+    "description": "",
+    "params": [
+      121,
+      35,
+      122
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 27009,
+    "name": "命途共鸣-曜灵",
+    "description": "",
+    "params": [
+      105,
+      39,
+      40,
+      28
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 27010,
+    "name": "命途共鸣-姜袭明",
+    "description": "",
+    "params": [
+      61,
+      50,
+      52,
+      62
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 27011,
+    "name": "命途共鸣-吴策",
+    "description": "",
+    "params": [
+      142,
+      141,
+      108,
+      106
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 27012,
+    "name": "命途共鸣-风绪",
+    "description": "",
+    "params": [
+      196,
+      195,
+      197,
+      198
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 27013,
+    "name": "命途共鸣-吾行之",
+    "description": "",
+    "params": [
+      82,
+      81,
+      83,
+      123
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 27014,
+    "name": "命途共鸣-杜伶鸳",
+    "description": "",
+    "params": [
+      124,
+      112
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 27015,
+    "name": "命途共鸣-花沁蕊",
+    "description": "",
+    "params": [
+      98,
+      99,
+      90,
+      101
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 27016,
+    "name": "命途共鸣-慕虎",
+    "description": "",
+    "params": [
+      89,
+      132,
+      91,
+      100
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 27017,
+    "name": "命途共鸣-南宫生",
+    "description": "",
+    "params": [
+      137,
+      138,
+      139,
+      140
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 27018,
+    "name": "命途共鸣-祁忘忧",
+    "description": "",
+    "params": [
+      200,
+      201,
+      202,
+      203
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 27019,
+    "name": "命途共鸣-小布",
+    "description": "",
+    "params": [
+      152,
+      153,
+      154,
+      177
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 27020,
+    "name": "命途共鸣-屠馗",
+    "description": "",
+    "params": [
+      172,
+      171,
+      174,
+      173
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 27021,
+    "name": "命途共鸣-叶冥冥",
+    "description": "",
+    "params": [
+      179,
+      180,
+      181,
+      182
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 27022,
+    "name": "命途共鸣-姬方生",
+    "description": "",
+    "params": [
+      184,
+      186,
+      185,
+      187
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 27023,
+    "name": "命途共鸣-李㵘",
+    "description": "",
+    "params": [
+      205,
+      206,
+      207
+    ],
+    "effectRound": 0,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 27024,
+    "name": "命途共鸣-聆羽",
+    "description": "",
+    "params": [
+      267,
+      268,
+      269,
+      270
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 28001,
+    "name": "影枭兔",
+    "description": "第13轮起生效",
+    "params": [
+      20,
+      99000210
+    ],
+    "effectRound": 13,
+    "battle": true,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  },
+  {
+    "id": 29001,
+    "name": "变招之音",
+    "description": "",
+    "params": [
+      4
+    ],
+    "effectRound": 0,
+    "battle": false,
+    "slotRequired": false,
+    "toggleable": false,
+    "available": true,
+    "requiredCharacter": 0
+  }
+]

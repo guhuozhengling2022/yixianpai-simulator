@@ -1,0 +1,15 @@
+package local.yxp;
+import java.util.*;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
+import static local.yxp.Models.*;
+class AdditionalMechanicsTest {
+    final Rules rules=new Rules();
+    Engine.Fighter f(int character,Map<String,Integer> buffs){var p=new Player("A","A",character,100,1000,20,0,0,Collections.nCopies(8,0),List.of(),buffs,List.of());var f=new Engine.Fighter(p);f.rules=rules;var d=new Engine.Fighter(new Player("B","B",0,1000,1000,0,0,0,Collections.nCopies(8,0),List.of(),Map.of()));d.rules=rules;f.opponent=d;d.opponent=f;return f;}
+    @Test void underworldChangesHealItsOwnerAndHurtOtherCharacters(){for(int id:List.of(0,4000003)){var f=f(id,Map.of());var ch=new ArrayList<Change>();Engine.addStatus(ch,f,"underworld",2);assertEquals(id==0?94:106,f.hp);Engine.addStatus(ch,f,"underworld",-1);assertEquals(id==0?91:109,f.hp);assertEquals(1,StarEffects.debuffs(f));}}
+    @Test void fruitDoesNotConvertUnderworldButRepelCanBlockIt(){var f=f(4000003,Map.of("fruitConversion",1,"repel",1));Engine.addStatus(new ArrayList<>(),f,"underworld",2);assertEquals(1,f.status("fruitConversion"));assertEquals(1,f.status("underworld"));assertEquals(103,f.hp);}
+    @Test void ringAddsOncePerPositiveGain(){var f=f(0,Map.of("ringGain",2));var ch=new ArrayList<Change>();Engine.addDefense(ch,f,3);Engine.addStatus(ch,f,"sharpness",1);assertEquals(5,f.def);assertEquals(3,f.status("sharpness"));Engine.addDefense(ch,f,-2);Engine.addStatus(ch,f,"sharpness",-1);assertEquals(3,f.def);assertEquals(2,f.status("sharpness"));}
+    @Test void forceOverflowAndSpendingCauseDamage(){var f=f(0,Map.of("forceCap",6,"forceDamage",2));var ch=new ArrayList<Change>();Engine.addStatus(ch,f,"force",8);assertEquals(6,f.status("force"));assertEquals(996,f.opponent.hp);assertEquals(2,f.def);Engine.addStatus(ch,f,"force",-1);assertEquals(994,f.opponent.hp);}
+    @Test void dragonRaisesChaseLimitAndBypassesBinding(){var a=f(0,Map.of("dragon",1,"binding",9));var p=a.p;var player=new Player(p.id(),p.name(),0,p.hp(),p.maxHp(),20,0,0,Collections.nCopies(8,16),List.of(),p.buffs(),List.of());var r=new Engine(rules).simulate(new Request(Rules.ID,"STANDARD","POST_OPENING","A",List.of(player,a.opponent.p)));assertEquals(3,r.events().stream().filter(e->e.turn()==1&&e.type().equals("CARD_PLAY")).count());}
+    @Test void nestedRandomCardsConsumeTapeBetweenOuterSelections(){var a=f(0,Map.of());var deck=new ArrayList<>(Collections.nCopies(8,0));deck.set(0,355);var p=a.p;var player=new Player(p.id(),p.name(),0,p.hp(),p.maxHp(),20,0,0,deck,List.of(),Map.of(),List.of());var tape=new ArrayList<>(List.of(6,3,0));tape.addAll(Collections.nCopies(256,-1));var r=new Engine(rules).simulate(new Request(Rules.ID,"STANDARD","POST_OPENING","A",List.of(player,a.opponent.p),tape));var played=r.events().stream().filter(e->e.turn()==1&&e.type().equals("CARD_PLAY")).map(Event::cardId).toList();assertEquals(List.of(355,6,0),played);assertEquals(3,r.events().stream().filter(e->e.turn()==1&&e.type().equals("BATTLE_PARAMETER")).count());}
+}

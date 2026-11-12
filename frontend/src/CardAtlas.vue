@@ -1,0 +1,28 @@
+<script setup lang="ts">
+import {computed,ref} from 'vue';
+type Card={id:number;name:string;desc:string;rarity:number;level:number;variant:number;sect:number;career:number;supported:boolean};
+const props=defineProps<{cards:Card[];modelValue:number;buttonLabel?:string}>();
+const emit=defineEmits<{ 'update:modelValue':[id:number] }>();
+const open=ref(false),query=ref(''),category=ref('门派'),sect=ref(1),career=ref(0),grade=ref(0);
+const selected=computed(()=>props.cards.find(c=>c.id===props.modelValue));
+const sects=['通用','云灵剑宗','七星阁','五行道盟','锻玄宗'];
+const careers=['全部副职','炼丹师','符咒师','琴师','画师','阵法师','灵植师','命理师'];
+function base(c:Card){return c.id-Math.floor(c.id/10000)%100*10000}
+const filtered=computed(()=>props.cards.filter(c=>c.rarity===grade.value&&(!query.value||c.name.includes(query.value)||String(c.id).includes(query.value))&&(category.value==='全部'||category.value==='门派'&&c.sect===sect.value||category.value==='副职'&&c.career>0&&(!career.value||c.career===career.value)||category.value==='其他'&&c.sect===0&&c.career===0)));
+const levels=['通用','炼气期','筑基期','金丹期','元婴期','化神期','返虚期'];
+function show(){const c=selected.value;if(c){grade.value=c.rarity;sect.value=c.sect;career.value=c.career;category.value=c.sect?'门派':c.career?'副职':'其他';}open.value=true}
+function choose(c:Card){emit('update:modelValue',c.id);open.value=false}
+</script>
+<template>
+<button type="button" class="atlas-trigger" @click="show">{{buttonLabel??`${selected?.name??modelValue} · ${(selected?.rarity??0)+1}级`}} <span>图鉴选牌 ▦</span></button>
+<Teleport to="body"><div v-if="open" class="atlas-overlay" @keydown.esc="open=false"><section class="atlas" role="dialog" aria-modal="true" aria-label="卡牌图鉴">
+<header><h2>卡牌图鉴</h2><button type="button" @click="open=false">关闭</button></header>
+<nav><button v-for="name in ['门派','副职','其他','全部']" :key="name" type="button" :class="{active:category===name}" @click="category=name">{{name}}</button></nav>
+<div class="atlas-tools"><input v-model="query" placeholder="搜索卡名或 ID" aria-label="图鉴搜索"><label>卡牌等级<select v-model.number="grade"><option v-for="n in [0,1,2]" :key="n" :value="n">{{n+1}}级</option></select></label><span>{{filtered.length}} 张 · 点击卡面放入当前槽</span></div>
+<div class="atlas-body"><aside><template v-if="category==='门派'"><button v-for="(name,i) in sects" :key="i" type="button" :class="{active:sect===i}" @click="sect=i">{{name}}</button></template><template v-else-if="category==='副职'"><button v-for="(name,i) in careers" :key="i" type="button" :class="{active:career===i}" @click="career=i">{{name}}</button></template></aside>
+<main><p v-if="!filtered.length">没有符合条件的卡牌，请调整分类、等级或搜索词。</p><section v-for="level in [0,1,2,3,4,5,6]" :key="level"><template v-if="filtered.some(c=>c.level===level)"><h3>{{levels[level]}}</h3><div class="atlas-grid"><button v-for="c in filtered.filter(c=>c.level===level)" :key="c.id" type="button" class="atlas-card" :class="{chosen:c.id===modelValue}" :disabled="!c.supported" @click="choose(c)"><div class="atlas-art"><strong>{{c.name}}</strong></div><p>{{c.desc.replace(/<[^>]*>/g,'')}}</p><small>{{c.rarity+1}}级 · #{{c.id}}{{c.supported?'':' · 未支持模拟'}}</small></button></div></template></section></main></div>
+</section></div></Teleport>
+</template>
+<style scoped>
+.atlas-trigger{width:100%;text-align:left;padding:10px;background:#f7f1e4;border:1px solid #b6a37b;border-radius:6px;color:#282d28;cursor:pointer}.atlas-trigger span{float:right;font-size:12px;color:#716343}.atlas-overlay{position:fixed;inset:0;z-index:1200;background:#171b1bd9;display:grid;place-items:center}.atlas{width:min(1250px,96vw);height:92vh;background:#e8e4d8;color:#292c28;border:2px solid #8d826b;border-radius:12px;display:flex;flex-direction:column;padding:20px;box-shadow:0 16px 70px #0008}.atlas header{display:flex;align-items:center;justify-content:space-between}.atlas h2{font-family:serif;font-size:30px;margin:0 0 12px;letter-spacing:5px}.atlas button{cursor:pointer}.atlas nav{display:flex;gap:12px;border-bottom:2px solid #92816a;padding-bottom:12px}.atlas nav button,.atlas aside button{padding:12px 22px;background:#dbd5c7;border:1px solid #ab9e86;color:#30352f;font-size:16px}.atlas button.active{background:#405e54;color:#fff8df}.atlas-tools{display:flex;gap:18px;align-items:center;flex-wrap:wrap;padding:14px 0}.atlas-tools input,.atlas-tools select{padding:8px}.atlas-body{display:flex;min-height:0;flex:1;gap:20px}.atlas aside{width:130px;flex-shrink:0;display:flex;flex-direction:column;gap:12px;overflow:auto}.atlas main{overflow:auto;flex:1}.atlas h3{border-bottom:1px solid #aaa08a;padding-bottom:8px;color:#675333}.atlas-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:18px;padding:4px 8px 22px}.atlas-card{padding:5px;border:3px solid #746e60;border-radius:8px;background:#f6f1e4;text-align:center;color:#262d28;min-width:0;box-shadow:2px 4px 5px #0003}.atlas-card.chosen{border-color:#27846b}.atlas-card:hover{border-color:#c69a3c;transform:translateY(-2px)}.atlas-card:disabled{opacity:.5;cursor:not-allowed}.atlas-art{position:relative;height:170px;background:linear-gradient(135deg,#c3b18a,#e0d5b4);overflow:hidden}.atlas-art img{width:100%;height:100%;object-fit:cover}.atlas-art strong{position:absolute;left:0;top:0;writing-mode:vertical-rl;background:#252920dd;color:#fff6db;padding:8px 5px;font-family:serif;letter-spacing:2px}.atlas-card p{white-space:pre-line;min-height:75px;font-size:14px;padding:8px 3px;margin:0}.atlas-card small{font-size:11px;color:#736a57}@media(max-width:650px){.atlas{padding:10px}.atlas aside{width:85px}.atlas aside button{padding:10px 3px}.atlas-grid{grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:8px}.atlas-art{height:145px}}
+</style>
