@@ -53,3 +53,7 @@ powershell -NoProfile -ExecutionPolicy Bypass -File scripts/start.ps1
 ## 反馈与公开发布
 
 发现推演和实战不一致时，请在「斗法记录」中导出反馈 JSON，填写双方实际最终生命。如果能定位到首次出现偏差的回合、卡槽或仙命，也请一并说明。分享前可检查并删除个人信息。
+
+## 支持项目
+
+如果这个工具对你有帮助，欢迎自愿支持后续开发和维护。项目继续免费开源。 [爱发电主页](https://afdian.com/a/yxp-simulator)
